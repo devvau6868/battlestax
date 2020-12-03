@@ -1,0 +1,10 @@
+{
+  "name": "BattleStax, a JamStack + Astra Workshop",
+  "description": "BattleStax is a stateful JAMStack game that is wholesome fun for the entire crew.",
+  "duration": "50 minutes",
+  "skillLevel": "Advanced",
+  "githubUrl": "https://github.com/DataStax-Examples/battlestax",
+  "tags": [{ "name": "labs", "color": "warning" }, { "name": "javascript" }],
+  "category": "apps",
+  "priority": 1
+}
