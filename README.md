@@ -13,8 +13,12 @@ In this 3 hour workshop you will create your own **BattleStax** game using [Reac
 
 ## ℹ️ Housekeeping
 
+<details><summary>Click to view the housekeeping items (<i><!--Youtube stream, -->Discord Chat,  Mentimeter quizz, the crew</i>)</summary>
+<p>
+
 It doesn't matter if you join our workshop live or you prefer to do at your own pace, we have you covered. In this repository, you'll find everything you need for this workshop.
 
+<!-- 
 ### 🎥 Live and questions with Youtube**
 
 The workshop is live Streamed on youtube, twitch and linkedin. After the session the recordings will be available on our [`DataStax Developers YouTube channel`](https://www.youtube.com/channel/UCAIQY251avaMv7bBv5PCo-A)
@@ -22,6 +26,8 @@ The workshop is live Streamed on youtube, twitch and linkedin. After the session
 *Click The image to join the stream*
 
 [![stream](./tutorial/workshop-live.png)](https://vimeo.com/datastax/review/478138764/8983f4fca5)
+
+-->
 
 ### 💬 Chat with Discord*
 
@@ -60,11 +66,17 @@ The materials has been prepared with live with our great team
 
 ![stream](./tutorial/line.png)
 
+<!--
 ## 🚀🚀 🚀  Let's Play the Game !
 
-Brave yourselves, everybody goes to [https://battlestax-workshop.netlify.app/](https://battlestax-workshop.netlify.app/). 
+Brace yourselves, everybody goes to [https://battlestax-workshop.netlify.app/](https://battlestax-workshop.netlify.app/). 
 
 [![.](./tutorial/rocket-animation.gif)](https://battlestax-workshop.netlify.app/)
+
+-->
+
+</p>
+</details>
 
 ## 🗓️ Table of Contents
 
