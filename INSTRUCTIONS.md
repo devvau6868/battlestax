@@ -1,5 +1,5 @@
 <!--- Enter the repository name --->
-# Running {name}
+# Running BattleStax
 Follow the instructions below to get started.
 
 <!--- 
