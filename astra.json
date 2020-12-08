@@ -4,7 +4,7 @@
   "duration": "50 minutes",
   "skillLevel": "Advanced",
   "githubUrl": "https://github.com/DataStax-Examples/battlestax",
-  "tags": [{ "name": "javascript" }],
+  "tags": [{ "name": "javascript" }, { "name": "document API" }],
   "category": "apps",
   "priority": 1
 }
