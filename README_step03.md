@@ -25,8 +25,8 @@ Now it's time to merge ALL of the changes from the last 3 sections back to maste
 📘 **Commands to execute**
 
 ```bash
-git add functions/insertGame.js src/store/gameSlice.js src/pages/Lobby/NewGame/NewGame.js
-git commit -m "Merging insertGame, gameSlice, and NewGame into master"
+git add functions/insertGame.js
+git commit -m "Merging insertGame into master"
 git push
 ```
 
