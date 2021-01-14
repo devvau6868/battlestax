@@ -321,4 +321,4 @@ npm run test:functions
 Great job! Let's move to the next section.
 
 ---
-🏠 **Back** to [Table of Contents](./README.md#%EF%B8%8F-table-of-contents) or **move** to the next section **=>** 📚 [What is Redux and React](./README_Redux_React.md)
+🏠 **Back** to [Table of Contents](./README.md#%EF%B8%8F-table-of-contents) or **move** to the next section **=>** 📚 [Verify and Deploy in Netlify](./README_step03.md)
