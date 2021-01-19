@@ -66,9 +66,9 @@ Choose **ONE** of the following (GitPod or Local):
   > ```
   > 
   > Here are the tools you need:
-  > - [ ] [NodeJS 12.x+](https://nodejs.org/en/download/)
-  > - [ ] [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  > - [ ] An IDE like [Visual Studio Code](https://code.visualstudio.com/Download) or [Jetbrain WebStorm](https://www.jetbrains.com/webstorm/download/#section=mac) or [Atom](https://atom.io/)
+  > - [x] [NodeJS 12.x+](https://nodejs.org/en/download/)
+  > - [x] [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  > - [x] An IDE like [Visual Studio Code](https://code.visualstudio.com/Download) or [Jetbrain WebStorm](https://www.jetbrains.com/webstorm/download/#section=mac) or [Atom](https://atom.io/)
   > 
   > ✔ Clone **_your_** `BattleStax` repository to localhost, use the following command in your terminal to do so:
   > 
