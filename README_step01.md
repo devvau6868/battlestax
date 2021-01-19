@@ -29,36 +29,95 @@ The REST API is `stateless`, and therefore helps functions scale horizontally. H
 
 ***IMPORTANT!** Don't forget to save when making code changes in your IDE or you might not get expected results.*
 
-*To code during the workshop you can either use **your laptop** or a **Cloud-based IDE** named [Gitpod](gitpod.io) with everything installed. **Here we explain the Gitpod way**.*
+To code during the workshop you can either use **your laptop** or the **Cloud-based IDE** [Gitpod](gitpod.io) with everything installed.
 
-### Option A - cloud-based GitPod *(recommended)*
+Choose **ONE** of the following:
 
-|**✅ Step A. Launch gitpod**<br/>![.](./tutorial/line.png?raw=true)|
-|:---|
-||
-|<details><summary><i>Click to view the solution</i></summary><br/> ✔ Gitpod is a cloud based IDE based on Eclipse Theia very similar to VSCode. You need to authenticate with your github account but then GitPod will initialized you workspace, building the solution.To initialize your environment click on the button below (CTRL + Click to open in new tab)<br/>[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)<br/><br/>✔ At initialization gitpod has download dependencies already (you should have the `node_modules` folder already there.<br/><br/>Target urls are dynamic and look like `https://<your_uid>.<your_region>.gitpod.io/#/workspace/battlestax`<br/>![Netlify Setup Example](./tutorial/gitpod-welcome.png?raw=true)</details>|
+<details style="font: 16px 'Open Sans', Calibri, sans-serif;">
+  <summary style="
+    padding: 2px 6px; 
+    width: 20em;
+    background-color: #ddd;
+    border: none;
+    box-shadow: 3px 3px 4px black;
+    cursor: pointer;
+  ">
+    <strong>GitPod online IDE (recommended)</strong>
+    <p><i>Here we explain the Gitpod way</i></p>
+  </summary>
 
-# OR
+  <p style="
+    border-radius: 0 0 10px 10px;
+    background-color: #ddd;
+    padding: 2px 6px;
+    margin: 0;
+    box-shadow: 3px 3px 4px black;
+  ">
 
-### Option B - LOCAL development environment
+  ✔ Gitpod is a cloud based IDE based on **Eclipse Theia** very similar to VSCode. You need to authenticate with your **Github** account and GitPod will initialize your workspace, building the solution. To initialize your environment click on the button below (CTRL + Click to open in new tab)
+  </br></br>
+  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+  </br></br>
+  ✔ At initialization **Gitpod** will download dependencies automatically (the `node_modules` folder should already be there).
+  </br></br>
+  Target urls are dynamic and look like `https://<your_uid>.<your_region>.gitpod.io/#/workspace/battlestax`
+  </br></br>
+  ![Netlify Setup Example](./tutorial/gitpod-welcome.png?raw=true)
 
-*To code during the workshop you can either use **your laptop** or a **Cloud-based IDE** named Gitpod. **Here we explain how to work locally**.*
+  </p>
 
-```diff
-+ Information : We assume people working locally are not beginners
-+ They should be autonomous to install a development environment.
-```
+</details>
 
-Here is the list of tools you need:
-- [NodeJS 12.x+](https://nodejs.org/en/download/)
-- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- An IDE like [Visual Studio Code](https://code.visualstudio.com/Download) or [Jetbrain WebStorm](https://www.jetbrains.com/webstorm/download/#section=mac) or [Atom](https://atom.io/)
+<strong><h4>OR</h4></strong>
 
+<details style="font: 16px 'Open Sans', Calibri, sans-serif;">
+  <summary style="
+    padding: 2px 6px; 
+    width: 20em;
+    background-color: #ddd;
+    border: none;
+    box-shadow: 3px 3px 4px black;
+    cursor: pointer;
+  ">
+    <strong>Local IDE</strong>
+    <p><i>Here we explain how to work locally</i></p>
+  </summary>
 
-|**✅ Step B. Clone the repository**![.](./tutorial/line.png?raw=true)|
-|:---|
-||
-|<details><summary><i>Click to view the solution</i></summary><br/> ✔  Clone **_your_** `BattleStax` repository to localhost, use the following command in your terminal to do so:<br/><br/>📘 **Command to execute**<br/>`git clone git@github.com:[your_github_id]/battlestax.git`<br/><br/>✔  Move to the proper directory<br/><br/>📘 **Command to execute**<br/>`cd battlestax`<br/><br/> ✔ Install Battlestax Dependencies. These are specified in the `package.json` file.<br/><br/>📘 **Command to execute**<br/>`npm install`</details>|
+  <p style="
+    border-radius: 0 0 10px 10px;
+    background-color: #ddd;
+    padding: 2px 6px;
+    margin: 0;
+    box-shadow: 3px 3px 4px black;
+  ">
+
+  ```diff
+  + We assume people working locally are not beginners
+  + They should be autonomous to install a development environment.
+  ```
+
+  Here are the tools you need:
+  - [NodeJS 12.x+](https://nodejs.org/en/download/)
+  - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - An IDE like [Visual Studio Code](https://code.visualstudio.com/Download) or [Jetbrain WebStorm](https://www.jetbrains.com/webstorm/download/#section=mac) or [Atom](https://atom.io/)
+
+  > ✔  Clone **_your_** `BattleStax` repository to localhost, use the following command in your terminal to do so:
+  </br></br>
+  📘 **Command to execute**<br/>
+  `git clone git@github.com:[your_github_id]/battlestax.git`
+  </br></br>
+  ✔  Move to the proper directory<br/><br/>
+  📘 **Command to execute**<br/>
+  `cd battlestax`
+  </br></br>
+  ✔ Install Battlestax Dependencies. These are specified in the `package.json` file.
+  </br></br>
+  📘 **Command to execute** <br/>
+  `npm install`
+
+  </p>
+</details>
+</br>
 
 **✅ Step 1b: Configure default remote**
 
@@ -255,4 +314,3 @@ Before moving on, take a moment to let this sink in. You just deployed an app wi
 
 ---
 🏠 **Back** to [Table of Contents](./README.md#%EF%B8%8F-table-of-contents) or **move** to the next section **=>** 📚 [What are DataStax Astra and Stargate](./README_Astra_Stargate.md)
-
