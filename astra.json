@@ -4,6 +4,8 @@
   "duration": "50 minutes",
   "skillLevel": "Advanced",
   "githubUrl": "https://github.com/DataStax-Examples/battlestax",
+  "gitpodUrl": "https://gitpod.io/#https://github.com/DataStax-Examples/battlestax",
+  "netlifyUrl": "https://app.netlify.com/start/deploy?repository=https://github.com/DataStax-Examples/battlestax",
   "tags": [{ "name": "javascript" }, { "name": "document API" }, {"name": "workshop"}],
   "category": "apps",
   "priority": 1
