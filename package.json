@@ -2,19 +2,19 @@
   "name": "battlestax",
   "version": "0.0.1",
   "dependencies": {
-    "@astrajs/collections": "0.0.5",
-    "@material-ui/core": "^4.11.0",
-    "@reduxjs/toolkit": "^1.4.0",
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.1.2",
-    "@testing-library/user-event": "^12.2.2",
-    "faker": "^5.1.0",
+    "@astrajs/collections": "0.0.10",
+    "@material-ui/core": "^4.11.3",
+    "@reduxjs/toolkit": "^1.5.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.6.3",
+    "faker": "^5.3.1",
     "lodash": "^4.17.20",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0"
+    "react-scripts": "4.0.2"
   },
   "scripts": {
     "dev": "netlify dev",
@@ -43,6 +43,6 @@
   },
   "devDependencies": {
     "fetch-mock": "^9.11.0",
-    "netlify-cli": "^2.68.5"
+    "netlify-cli": "^3.5.0"
   }
 }
