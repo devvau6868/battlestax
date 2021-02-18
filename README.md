@@ -63,8 +63,6 @@ information (we'll need this later!):
 3. Clone the repository:
 ![image](https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/github-clone.png)
 
-## Tutorial Steps
-Follow the complete battelstax tutorial to build out a game slice by starting here: [https://github.com/DataStax-Examples/battlestax/blob/master/README_step00.md](https://github.com/DataStax-Examples/battlestax/blob/master/README_step00.md)
 
 ## Running the full game
 *Make sure you've completed the [prerequisites](#prerequisites) before starting this step*
@@ -93,6 +91,7 @@ npm run dev
 ```
 <!--- ENDEXCLUDE --->
 
+## Tutorial Steps
 To get the full self-service experience from nothing to full production deployment, click the button below.
 
 <p align="center">
