@@ -91,6 +91,7 @@ npm run dev
 ```
 <!--- ENDEXCLUDE --->
 
+<!--
 ## Tutorial Steps
 To get the full self-service experience from nothing to full production deployment, click the button below.
 
@@ -99,3 +100,5 @@ To get the full self-service experience from nothing to full production deployme
  <img src="https://dabuttonfactory.com/button.png?t=Open+the+workshop&f=Roboto-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798" />
 </a>
 </p>
+
+-->
