@@ -2,6 +2,7 @@ image: gitpod/workspace-full
 tasks:
   - init: yarn install
     command: echo "Please Define .env file if not exist"
+  - init: pip3 install httpie-astra
 ports:
   - port: 3000
     onOpen: open-browser
