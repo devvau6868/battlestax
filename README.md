@@ -93,14 +93,11 @@ npm run dev
 ```
 <!--- ENDEXCLUDE --->
 
-<!--
 ## Tutorial Steps
-To get the full self-service experience from nothing to full production deployment, click the button below.
+The above instructions are great to get you up and running pretty quickly, but if you would like to learn how to fully deploy the application to production with JAMStack then click the button below to get started.
 
 <p align="center">
 <a href="../../wiki">
  <img src="https://dabuttonfactory.com/button.png?t=Open+the+workshop&f=Roboto-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798" />
 </a>
 </p>
-
--->
