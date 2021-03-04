@@ -13,8 +13,7 @@ BattleStax is a stateful JAMStack game that is wholesome fun for the entire crew
 ## Objectives
 * Deploy a scalable JAMStack app to production
 * Leverage a good CI/CD process to manage your JAMStack App
-
-<!--- STARTEXCLUDE --->  
+  
 ## How this works
 The BattleStax players watch a lobby screen while playing the game on their devices.
 
@@ -27,6 +26,7 @@ The BattleStax players watch a lobby screen while playing the game on their devi
 ## Get Started
 To build and play with this app, follow the build instructions that are located here: [https://github.com/DataStax-Examples/battlestax](https://github.com/DataStax-Examples/battlestax#prerequisites)
 
+<!--- STARTEXCLUDE --->
 # Running BattleStax
 Follow the instructions below to get started.
 
@@ -91,7 +91,6 @@ npm install
 # start battlestax in dev mode
 npm run dev
 ```
-<!--- ENDEXCLUDE --->
 
 ## Tutorial Steps
 The above instructions are great to get you up and running pretty quickly, but if you would like to learn how to fully deploy the application to production with JAMStack then click the button below to get started.
@@ -101,3 +100,5 @@ The above instructions are great to get you up and running pretty quickly, but i
  <img src="https://dabuttonfactory.com/button.png?t=Open+the+workshop&f=Roboto-Bold&ts=26&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=15d798" />
 </a>
 </p>
+
+<!--- ENDEXCLUDE --->
