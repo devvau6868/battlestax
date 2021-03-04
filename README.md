@@ -13,7 +13,8 @@ BattleStax is a stateful JAMStack game that is wholesome fun for the entire crew
 ## Objectives
 * Deploy a scalable JAMStack app to production
 * Leverage a good CI/CD process to manage your JAMStack App
-  
+
+<!--- STARTEXCLUDE --->  
 ## How this works
 The BattleStax players watch a lobby screen while playing the game on their devices.
 
@@ -26,7 +27,6 @@ The BattleStax players watch a lobby screen while playing the game on their devi
 ## Get Started
 To build and play with this app, follow the build instructions that are located here: [https://github.com/DataStax-Examples/battlestax](https://github.com/DataStax-Examples/battlestax#prerequisites)
 
-<!--- STARTEXCLUDE --->
 # Running BattleStax
 Follow the instructions below to get started.
 
